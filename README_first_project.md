@@ -8,17 +8,12 @@ The code for this project was developed while following the tutorial: "Complete 
 
 ## Features
 
-JWT Authentication for secure user login
-
-Database Modeling to store subscription and user data
-
-API Architecture built for scalability
-
-Security Best Practices to protect sensitive data
-
-Automated Workflows for efficient business logic processing
-
-Real Money Transactions for managing subscriptions
+- Security like JWT Authentication for secure user login (and for my to bypass it :))) 
+- Database Modeling to store subscription and user data
+- API Architecture built for scalability
+- Security Best Practices to protect sensitive data
+- Automated Workflows for efficient business logic processing
+- Real Money Transactions for managing subscriptions
 
 ## Why I Built This
 
