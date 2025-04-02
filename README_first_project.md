@@ -19,32 +19,32 @@ The code for this project was developed while following the tutorial: "Complete 
 
 I created this project to:
 
-Learn about backend development with real-world use cases.
-
-Understand how to implement secure authentication and authorization.
-
-Gain experience in building APIs for production environments.
-
-Experiment with database design, API security, and payment integrations.
-
-Showcase my learning progress to friends, teachers, and potential employers.
+- Learn about backend development with real-world use cases.
+- 
+- Understand how to implement secure authentication and authorization.
+- 
+- Gain experience in building APIs for production environments.
+- 
+- Experiment with database design, API security, and payment integrations.
+- 
+- Showcase my learning progress to friends, teachers, and potential employers.
 
 ## How to Use
 
 ### Prerequisites
 
-Node.js and npm installed
+- Node.js and npm installed
 
-MongoDB setup for database storage
+- MongoDB setup for database storage
 
-Basic understanding of backend development concepts
+- Basic understanding of backend development concepts
 
 ### Setup
 
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/subscription-api.git
+git clone https://github.com//subscription-api.git
 cd subscription-api
 ```
 
