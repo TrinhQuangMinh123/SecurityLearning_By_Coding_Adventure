@@ -1,2 +1,12 @@
-# SecurityLearning_By_Coding_Adventure
-I have always dream of being an amazing security specialist since I was very young. And thus, this is where I fill up with codes and stuffs that I learn along this adventure..
+# Security Learning By Coding Adventure 🔐
+
+I have always dreamed of becoming a security specialist since I was very young.  
+This repository is where I document my learning journey through hands-on projects.
+
+## 📌 My Projects
+1. [First Project: Subscription Management API](README_first_project.md)
+2. More projects coming soon!
+
+## 📚 Resources
+- Courses & Tutorials I followed
+- Articles, books, and tools I use
