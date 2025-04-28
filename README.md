@@ -22,7 +22,7 @@ I'm constantly learning and building new projects. Stay tuned for more projects 
 - **[Article Title](#)**: UPDATING
 - **[Tool Name](#)**: Webstorm, HTTPie, Burp Suite, wsl (Ubuntu 24.04).
 
-⚠️ Disclaimer
+⚠️ Disclaimer:
 This project is intended for educational purposes only and should not be used in production. 
 
 📬 Contact & Feedback
