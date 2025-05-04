@@ -14,7 +14,7 @@ const subscriptionSchema = new mongoose.Schema({
         min: [0, 'Price must be greater than 0'],
     },
     currency: {
-        type: Number,
+        type: String,
         enum: ['EUR', 'USD', 'VND', 'GBP'],
         default: 'USD',
     },
@@ -47,7 +47,6 @@ const subscriptionSchema = new mongoose.Schema({
     },
     renewalDate: {
         type: Date,
-        required: true,
         validate: {
             validator: function (value){
                 return value > this.startDate;
