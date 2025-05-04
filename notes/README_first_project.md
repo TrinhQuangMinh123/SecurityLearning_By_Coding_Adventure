@@ -42,7 +42,7 @@ This project is intended for educational purposes only.
 
 ## Future Improvements
 
-Improve API rate limiting and security features instead just using Arcjet.
+Improve and making my own API rate limiting and security features instead of just using Arcjet. And adding more features like the missing controllers by my own creativity and also the adminAuth middleware.
 
 ## Contact & Feedback
 email: tqminhhcm@gmail.com
